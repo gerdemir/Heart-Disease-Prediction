@@ -19,5 +19,5 @@ The dataset used in this project is the Heart Disease dataset.
 www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data
 
 ### Acknowledgment 
-This project was inspired by the YouTube tutorial [Multiple Disease Prediction System using Machine Learning in Python | Streamlit Web App - Deployment] (https://youtu.be/8Q_QQVQ1HZA?si=o4buaDAL0iHhfs_e). 
+This project was inspired by the YouTube tutorial [Multiple Disease Prediction System using Machine Learning in Python | Streamlit Web App - Deployment](https://youtu.be/8Q_QQVQ1HZA?si=o4buaDAL0iHhfs_e). 
 I learned from the tutorial and adapted the code with my own modifications.  
